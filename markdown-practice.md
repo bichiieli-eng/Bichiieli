@@ -1,6 +1,8 @@
 ## My learning Goals
 ###This semester
+
 good is not *good* where **better** is expected
+
 My GitHub profile: [github.com/bichiieli-eng](https://github.com/bichiieli-eng) A site I find useful: [MDN Web Docs](https://developer.mozilla.org)
 **Things I want to learn:**
 
